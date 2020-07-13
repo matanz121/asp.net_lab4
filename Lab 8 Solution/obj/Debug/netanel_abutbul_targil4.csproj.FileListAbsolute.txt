@@ -1,0 +1,6 @@
+C:\Users\emperor\Desktop\netanel_abutbul_targil4_208207027\netanel_abutbul_targil4_208207027\Lab 8 Solution\bin\Lab 8 Solution.dll.config
+C:\Users\emperor\Desktop\netanel_abutbul_targil4_208207027\netanel_abutbul_targil4_208207027\Lab 8 Solution\bin\Lab 8 Solution.dll
+C:\Users\emperor\Desktop\netanel_abutbul_targil4_208207027\netanel_abutbul_targil4_208207027\Lab 8 Solution\bin\Lab 8 Solution.pdb
+C:\Users\emperor\Desktop\netanel_abutbul_targil4_208207027\netanel_abutbul_targil4_208207027\Lab 8 Solution\obj\Debug\netanel_abutbul_targil4.csprojAssemblyReference.cache
+C:\Users\emperor\Desktop\netanel_abutbul_targil4_208207027\netanel_abutbul_targil4_208207027\Lab 8 Solution\obj\Debug\Lab 8 Solution.dll
+C:\Users\emperor\Desktop\netanel_abutbul_targil4_208207027\netanel_abutbul_targil4_208207027\Lab 8 Solution\obj\Debug\Lab 8 Solution.pdb
