@@ -2,8 +2,10 @@
 
 1) make sure to change the path in web.config according to the path of books.mdb from your computer.
 
-2) Netanel Abutbul - 208207027
+2) Github link - https://github.com/matanz121/asp.net_lab4
 
-3) Enjoy :)
+3) Netanel Abutbul - 208207027
+
+4) Enjoy :)
 
 ********************************************************************************
